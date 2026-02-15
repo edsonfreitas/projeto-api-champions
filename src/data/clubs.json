@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "Paris Saint-Germain",
+    "description": "French club competing in the UEFA Champions League.",
+    "members": 42
+  },
+  {
+    "id": 2,
+    "name": "Tottenham Hotspur",
+    "description": "English club and Europa League winner participating in UCL.",
+    "members": 38
+  },
+  {
+    "id": 3,
+    "name": "Liverpool",
+    "description": "English club competing in the UEFA Champions League.",
+    "members": 39
+  },
+  {
+    "id": 4,
+    "name": "Arsenal",
+    "description": "English club competing in the UEFA Champions League.",
+    "members": 40
+  },
+  {
+    "id": 5,
+    "name": "Manchester City",
+    "description": "English club competing in the UEFA Champions League.",
+    "members": 41
+  },
+  {
+    "id": 6,
+    "name": "Chelsea",
+    "description": "English club competing in the UEFA Champions League.",
+    "members": 37
+  },
+  {
+    "id": 7,
+    "name": "Newcastle United",
+    "description": "English club with European Performance Spot.",
+    "members": 36
+  },
+  {
+    "id": 8,
+    "name": "Napoli",
+    "description": "Italian club competing in the UEFA Champions League.",
+    "members": 35
+  },
+  {
+    "id": 9,
+    "name": "Inter Milan",
+    "description": "Italian club competing in the UEFA Champions League.",
+    "members": 38
+  },
+  {
+    "id": 10,
+    "name": "Atalanta",
+    "description": "Italian club competing in the UEFA Champions League.",
+    "members": 33
+  },
+  {
+    "id": 11,
+    "name": "Juventus",
+    "description": "Italian club competing in the UEFA Champions League.",
+    "members": 40
+  },
+  {
+    "id": 12,
+    "name": "Barcelona",
+    "description": "Spanish club competing in the UEFA Champions League.",
+    "members": 46
+  },
+  {
+    "id": 13,
+    "name": "Real Madrid",
+    "description": "Spanish club competing in the UEFA Champions League.",
+    "members": 45
+  },
+  {
+    "id": 14,
+    "name": "Atlético Madrid",
+    "description": "Spanish club competing in the UEFA Champions League.",
+    "members": 34
+  },
+  {
+    "id": 15,
+    "name": "Athletic Club",
+    "description": "Spanish club competing in the UEFA Champions League.",
+    "members": 28
+  },
+  {
+    "id": 16,
+    "name": "Villarreal",
+    "description": "Spanish club competing in the UEFA Champions League.",
+    "members": 30
+  },
+  {
+    "id": 17,
+    "name": "Bayern München",
+    "description": "German club competing in the UEFA Champions League.",
+    "members": 47
+  },
+  {
+    "id": 18,
+    "name": "Bayer Leverkusen",
+    "description": "German club competing in the UEFA Champions League.",
+    "members": 32
+  },
+  {
+    "id": 19,
+    "name": "Eintracht Frankfurt",
+    "description": "German club competing in the UEFA Champions League.",
+    "members": 29
+  },
+  {
+    "id": 20,
+    "name": "Borussia Dortmund",
+    "description": "German club competing in the UEFA Champions League.",
+    "members": 38
+  },
+  {
+    "id": 21,
+    "name": "PSV Eindhoven",
+    "description": "Dutch club competing in the UEFA Champions League.",
+    "members": 31
+  },
+  {
+    "id": 22,
+    "name": "Ajax",
+    "description": "Dutch club competing in the UEFA Champions League.",
+    "members": 33
+  },
+  {
+    "id": 23,
+    "name": "Sporting CP",
+    "description": "Portuguese club competing in the UEFA Champions League.",
+    "members": 34
+  },
+  {
+    "id": 24,
+    "name": "Union Saint-Gilloise",
+    "description": "Belgian club competing in the UEFA Champions League.",
+    "members": 27
+  },
+  {
+    "id": 25,
+    "name": "Galatasaray",
+    "description": "Turkish club competing in the UEFA Champions League.",
+    "members": 40
+  },
+  {
+    "id": 26,
+    "name": "Slavia Praha",
+    "description": "Czech club competing in the UEFA Champions League.",
+    "members": 25
+  },
+  {
+    "id": 27,
+    "name": "Olympiacos",
+    "description": "Greek club competing in the UEFA Champions League.",
+    "members": 26
+  },
+  {
+    "id": 28,
+    "name": "Benfica",
+    "description": "Portuguese club qualifying through playoffs.",
+    "members": 36
+  },
+  {
+    "id": 29,
+    "name": "Club Brugge",
+    "description": "Belgian club qualifying through playoffs.",
+    "members": 29
+  },
+  {
+    "id": 30,
+    "name": "Kairat Almaty",
+    "description": "Kazakh club qualifying through playoffs.",
+    "members": 24
+  },
+  {
+    "id": 31,
+    "name": "Pafos",
+    "description": "Cypriot club qualifying through playoffs.",
+    "members": 23
+  },
+  {
+    "id": 32,
+    "name": "Bodø/Glimt",
+    "description": "Norwegian club qualifying through playoffs.",
+    "members": 22
+  },
+  {
+    "id": 33,
+    "name": "Copenhagen",
+    "description": "Danish club qualifying through playoffs.",
+    "members": 26
+  },
+  {
+    "id": 34,
+    "name": "Red Bull Salzburg",
+    "description": "Austrian club qualifying through playoffs.",
+    "members": 28
+  },
+  {
+    "id": 35,
+    "name": "Dinamo Zagreb",
+    "description": "Croatian club qualifying through playoffs.",
+    "members": 27
+  },
+  {
+    "id": 36,
+    "name": "Young Boys",
+    "description": "Swiss club qualifying through playoffs.",
+    "members": 26
+  }
+]
