@@ -1,3 +1,4 @@
+import e from "express";
 import { PlayerModel } from "../models/player-model";
 import * as PlayerRepository from "../repositories/players-repository";
 import * as HttpResponse from "../utils/http-helper";
@@ -40,3 +41,13 @@ export const createPlayerService = async (player: PlayerModel) => {
 
   return response;
 };
+
+export const deletePlayerService = async (id: number) => {
+
+  let response = null;
+    await PlayerRepository.deleteOnePlayer(id);
+
+    response = HttpResponse.ok({ message: `Player with id ${id} deleted successfully` });
+
+  return response;
+}
