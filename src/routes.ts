@@ -5,6 +5,7 @@ const router = Router();
 
 router.get("/players", PlayerController.getPlayers);
 router.post("/players", PlayerController.createPlayer);
+router.patch("/players/:id", PlayerController.updatePlayer);
 
 router.delete("/players/:id", PlayerController.deletePlayer);
 
